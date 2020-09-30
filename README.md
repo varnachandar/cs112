@@ -1,2 +1,2 @@
 # cs112
-All my coding projects for my Data Structures class. 
+All my coding assignments for my Data Structures course. 
